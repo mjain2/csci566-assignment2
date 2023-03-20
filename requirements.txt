@@ -1,0 +1,4 @@
+torch==1.11.0
+urllib3
+charset_normalizer~=2.0.0
+idna<4,>=2.5
